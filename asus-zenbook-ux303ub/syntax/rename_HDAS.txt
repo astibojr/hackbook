@@ -1,0 +1,4 @@
+#Maintained by: astibojr for: Laptop Patches
+#Rename-HECI-to-IMEI.txt
+
+into_all all label HDAS set_label begin HDEF end;
